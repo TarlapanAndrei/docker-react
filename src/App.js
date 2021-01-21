@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> saver to reload master.
         </p>
+        <p> O Schimbare </p>
         <a
           className="App-link"
           href="https://reactjs.org"
